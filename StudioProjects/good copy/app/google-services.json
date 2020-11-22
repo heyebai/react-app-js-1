@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699698978015",
+    "firebase_url": "https://mema-ac1a6.firebaseio.com",
+    "project_id": "mema-ac1a6",
+    "storage_bucket": "mema-ac1a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699698978015:android:424404c579f35be2f4dd6a",
+        "android_client_info": {
+          "package_name": "com.example.mema_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699698978015-g0pfkekg6v1ntesakdkbsed9r9d59hqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mema_prototype",
+            "certificate_hash": "120d85eb953d544be95532cbf674a0ff4c61a7fb"
+          }
+        },
+        {
+          "client_id": "699698978015-78t3sdps2d7fmq52elp75f3g3mpub5t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlK93RxE3zHwUPvWZpLPhjLHstklyclnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699698978015-78t3sdps2d7fmq52elp75f3g3mpub5t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
